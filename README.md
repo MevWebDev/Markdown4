@@ -20,4 +20,4 @@ Paragraf numero dos
 |ginger|stanislaskas|
 
 
-![Alt text]([https://github.com/MevWebDev/Markdown4/stepik-meme.jpg)
+![Alt text](https://github.com/MevWebDev/Markdown4/blob/main/meme.jpg)
