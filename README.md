@@ -23,7 +23,6 @@ Paragraf numero dos
 ![Alt text](https://github.com/MevWebDev/Markdown4/blob/main/meme.jpg)
 
 <style>
-  /* Dodaj tutaj style CSS */
   body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
