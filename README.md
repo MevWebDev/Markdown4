@@ -19,4 +19,4 @@ Paragraf numero dos
 |Czarny|pxseu|
 |ginger|stanislaskas|
 
-![Alt text]([https://github.com/MevWebDev/Markdown4/blob/main/stepik-meme.jpg)
+![Alt text]([https://github.com/MevWebDev/Markdown4/stepik-meme.jpg)
