@@ -21,3 +21,36 @@ Paragraf numero dos
 
 
 ![Alt text](https://github.com/MevWebDev/Markdown4/blob/main/meme.jpg)
+
+<style>
+  /* Dodaj tutaj style CSS */
+  body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    color: #333;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
