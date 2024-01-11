@@ -4,7 +4,7 @@ Paragraf numero uno
 
 Paragraf numero dos
 
-#Linki
+# Linki
 
 [Najlepszy kurs BASH](https://stepik.org/course/83989/)
 
@@ -18,5 +18,6 @@ Paragraf numero dos
 |Franek|Witek|
 |Czarny|pxseu|
 |ginger|stanislaskas|
+
 
 ![Alt text]([https://github.com/MevWebDev/Markdown4/stepik-meme.jpg)
