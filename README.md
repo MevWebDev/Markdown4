@@ -13,7 +13,9 @@ Paragraf numero dos
 [Najlepsza strona](mev.pxseu.com/calculator)
 
 
-|Naglowek 1|Naglówek 2|
+|Super|Chłopcy|
 |----------|----------|
-|Element 1 |Element 2 |
-|Element 3 |Element 4 |
+|Franek|Witek|
+|Czarny|pxseu|
+|ginger|stanislaskas|
+
